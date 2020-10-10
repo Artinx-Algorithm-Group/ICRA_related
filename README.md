@@ -1,5 +1,6 @@
 # ICRA_related 
-Document &amp; sample code
+Document &amp; Sample_code
+
 Original Code link: https://github.com/RoboMaster/RoboRTS
 
 The **Document** folder includes the explanation of ICRA code and the way to use sample codes.
